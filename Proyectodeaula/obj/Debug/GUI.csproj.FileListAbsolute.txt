@@ -1,0 +1,3 @@
+D:\Proyectodeaula\Proyectodeaula\Proyectodeaula\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Proyectodeaula\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.exe
+D:\Proyectodeaula\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.pdb

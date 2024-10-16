@@ -1,0 +1,17 @@
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\bin\Debug\Proyectodeaula.exe.config
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\bin\Debug\Proyectodeaula.exe
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\bin\Debug\Proyectodeaula.pdb
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.csproj.AssemblyReference.cache
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.Properties.Resources.resources
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.csproj.GenerateResource.cache
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.csproj.CoreCompileInputs.cache
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.exe
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.pdb
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.Login.resources
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.VentanaPrincipal.resources
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.Productos.resources
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.Ventas.resources
+C:\Users\615322\Desktop\UPC\Programación 3\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.Inicio.resources
+D:\Proyectodeaula\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.csproj.AssemblyReference.cache
+D:\Proyectodeaula\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.exe
+D:\Proyectodeaula\Proyectodeaula\Proyectodeaula\obj\Debug\Proyectodeaula.pdb
